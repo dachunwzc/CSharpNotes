@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.6.33712.159
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Initialization", "Initialization\Initialization.csproj", "{502DD4E8-2AB3-4233-B532-028313EAC58B}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WPFNotes", "WPFNotes\WPFNotes.csproj", "{2ED48F9F-3A1B-4E0A-BEBB-DA20E80D4A12}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,15 +11,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{502DD4E8-2AB3-4233-B532-028313EAC58B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{502DD4E8-2AB3-4233-B532-028313EAC58B}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{502DD4E8-2AB3-4233-B532-028313EAC58B}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{502DD4E8-2AB3-4233-B532-028313EAC58B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2ED48F9F-3A1B-4E0A-BEBB-DA20E80D4A12}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2ED48F9F-3A1B-4E0A-BEBB-DA20E80D4A12}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2ED48F9F-3A1B-4E0A-BEBB-DA20E80D4A12}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2ED48F9F-3A1B-4E0A-BEBB-DA20E80D4A12}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {DB29BF87-1C08-4B96-ACA0-9AA0768AFB73}
+		SolutionGuid = {2CE134B2-EF82-46E4-842C-28798F1549EC}
 	EndGlobalSection
 EndGlobal

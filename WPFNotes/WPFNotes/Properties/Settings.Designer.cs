@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace Initialization.Properties
+namespace WPFNotes.Properties
 {
 
 
