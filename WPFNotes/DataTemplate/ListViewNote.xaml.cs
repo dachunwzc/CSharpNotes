@@ -1,4 +1,5 @@
-﻿using System;
+﻿using DataTemplate.ViewModel;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -10,19 +11,19 @@ using System.Windows.Documents;
 using System.Windows.Input;
 using System.Windows.Media;
 using System.Windows.Media.Imaging;
-using System.Windows.Navigation;
 using System.Windows.Shapes;
 
-namespace Initialization
+namespace DataTemplate
 {
     /// <summary>
-    /// MainWindow.xaml 的交互逻辑
+    /// ListViewNote.xaml 的交互逻辑
     /// </summary>
-    public partial class MainWindow : Window
+    public partial class ListViewNote : Window
     {
-        public MainWindow()
+        public ListViewNote()
         {
             InitializeComponent();
+            this.DataContext = new StudentViewModel();
         }
     }
 }
